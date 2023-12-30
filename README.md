@@ -7,7 +7,7 @@
 Glossier is your destination for effortless beauty, where we've reimagined the world of skincare, makeup, balms, body care, fragrances, and more. At Glossier, we believe that beauty should be uncomplicated, accessible, and most importantly, tailored to you.
 
 ## Netlify Link :
-https://6509a45460bc91008781faa8--incredible-baklava-73dc03.netlify.app/index.html
+https://online-beauty-shop.vercel.app/
 
 ## Let's Take a tour of our Website ->
 
